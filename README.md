@@ -1,2 +1,3 @@
 # Time a Stress Management
-🔥 Digitálna Univerzita - Faily a Fuckupy v Online marketingu, Prednáška, materiály, prezentácia
+🔥 Digitálna Univerzita - Time a Stress Management Prednáška, materiály, prezentácia
+🔥 Univerzitný technologický inkubátor STU - Stress Management Prednáška, materiály, prezentácia
